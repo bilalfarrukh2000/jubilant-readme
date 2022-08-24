@@ -5,6 +5,8 @@
 
 ## Screenshot
 
+![](/assets/images/jubilant-readme.png)
+
 ## Links
 
 Walkthough video: https://watch.screencastify.com/v/zmkwY71S1ST07hnp7Wwk
