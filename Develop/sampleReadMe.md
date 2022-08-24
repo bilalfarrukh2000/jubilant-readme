@@ -1,8 +1,8 @@
 
-  # a
+  # jubilant-readme
   ## Description
 
-  v
+  I felt inspired to create a high quality readme with ease. That is the motivation behind creating this project.
 
   ## Table of Contents:
   ###  [Installation](#installation-1)
@@ -17,22 +17,22 @@
  
 
   ## Installation
-  c
+  The steps required included cloning a repository as well as installing node.js. I also ran the "npm install" command followed by the "npm i inquirer" command.
 
   ## Usage
-  d
+  After opening up the the terminal, run the command node index.js. One by one, each question will appear for the user to answer. This will generate the ReadMe.
 
   ## Credits
-  e
+  This application was made by Bilal Farrukh.
 
   ## Features
-  f
+  This project creates a Readme from user input.
 
   ## Contribution
-  g
+  Other developes can use the guidelines listed on the following website to contribute to my project: https://www.contributor-covenant.org
 
   ## Tests
-  h
+  There are no tests for this project.
 
   ## License
   ### The license for this app is Apache
@@ -42,5 +42,5 @@
 
   ## Questions
   ### Please reach out for any questions at:
-  ### Github: https://github.com/j or Email: k
+  ### Github: https://github.com/bilalfarrukh2000 or Email: bilalfarrukh2000@gmail.com
 
