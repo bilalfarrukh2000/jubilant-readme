@@ -13,5 +13,5 @@ After the user answers each question, the readme file is generated.
 
 ## Links
 
-Walkthough video: https://watch.screencastify.com/v/zmkwY71S1ST07hnp7Wwk
+Walkthrough video: https://watch.screencastify.com/v/zmkwY71S1ST07hnp7Wwk
 GitHub Repo: https://github.com/bilalfarrukh2000/jubilant-readme
