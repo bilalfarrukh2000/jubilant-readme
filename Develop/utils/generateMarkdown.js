@@ -31,7 +31,7 @@ function renderLicenseLink(license) {
 function generateMarkdown(data) {
   return `
   # ${data.Title}
-  ## Description:
+  ## Description
 
   ${data.Description}
 
@@ -40,7 +40,7 @@ function generateMarkdown(data) {
   ###  [Usage](#usage-1)
   ###  [Credits](#credits-1)
   ###  [Features](#features-1)
-  ###  [Contribution Guidelines](#contribution-guidelines-1)
+  ###  [Contribution](#contribution-1)
   ###  [Tests](#tests-1)
   ###  [License](#license-1)
   ###  [Questions](#questions-1)
@@ -59,23 +59,21 @@ function generateMarkdown(data) {
   ## Features
   ${data.Features}
 
-  ## Contribution Guidelines
+  ## Contribution
   ${data.Contribute}
 
   ## Tests
   ${data.Tests}
 
   ## License
-  ### This application uses the ${data.License} license
+  ### The license for this app is ${data.License}
   ### ${renderLicenseBadge(data.License)}
-  ### Link: ${renderLicenseLink(data.License)};
+  ### Link for license: ${renderLicenseLink(data.License)};
 
 
   ## Questions
   ### Please reach out for any questions at:
-  ### Github: https://github.com/${data.ghUserName}
-  ### or
-  ### Email: ${data.Email}
+  ### Github: https://github.com/${data.ghUserName} or Email: ${data.Email}
 
 `;
 }

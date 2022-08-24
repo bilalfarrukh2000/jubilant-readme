@@ -1,15 +1,15 @@
 
   # a
-  ## Description:
+  ## Description
 
-  b
+  v
 
   ## Table of Contents:
   ###  [Installation](#installation-1)
   ###  [Usage](#usage-1)
   ###  [Credits](#credits-1)
   ###  [Features](#features-1)
-  ###  [Contribution Guidelines](#contribution-guidelines-1)
+  ###  [Contribution](#contribution-1)
   ###  [Tests](#tests-1)
   ###  [License](#license-1)
   ###  [Questions](#questions-1)
@@ -28,21 +28,19 @@
   ## Features
   f
 
-  ## Contribution Guidelines
+  ## Contribution
   g
 
   ## Tests
   h
 
   ## License
-  ### This application uses the Apache license
+  ### The license for this app is Apache
   ### ![badge](https://www.opensourcecms.com/wp-content/uploads/apache-license.gif)
-  ### Link: https://spdx.org/licenses/Apache-2.0.html;
+  ### Link for license: https://spdx.org/licenses/Apache-2.0.html;
 
 
   ## Questions
   ### Please reach out for any questions at:
-  ### Github: https://github.com/j
-  ### or
-  ### Email: k
+  ### Github: https://github.com/j or Email: k
 
